@@ -1,0 +1,18 @@
+# Common Python and Environment Exclusions
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variable files
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
